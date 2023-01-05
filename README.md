@@ -1,1 +1,1 @@
-# github_the_odin_project
+the_odin_project_recipes
